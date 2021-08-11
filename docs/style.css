@@ -2,7 +2,9 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
   background-image: url("BG.jpg");
-  background-color: #6C5DD3;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color: #152938;
   --text_light: #fff;
   --text_med: #53627c;
   --text_dark: #1e2432;
