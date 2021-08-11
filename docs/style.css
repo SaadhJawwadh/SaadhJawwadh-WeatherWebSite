@@ -1,7 +1,7 @@
 /* RESET STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-  background-image: url("/Asset/BG.jpg");
+  background-image: url("BG.jpg");
   background-color: #040405;
   --text_light: #fff;
   --text_med: #53627c;
