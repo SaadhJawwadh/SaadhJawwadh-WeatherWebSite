@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jawwadh"
+  given-names: "Saadh"
+  orcid: "https://github.com/SaadhJawwadh"
+title: "WeatherWebSite"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-08-10
+url: "https://github.com/SaadhJawwadh/SaadhJawwadh-WeatherWebSite"
