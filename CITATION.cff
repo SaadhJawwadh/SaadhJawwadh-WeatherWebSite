@@ -1,8 +1,8 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Jawwadh"
-  given-names: "Saadh"
+- family-names: "Saadh"
+  given-names: "Jawwadh"
   orcid: "https://github.com/SaadhJawwadh"
 title: "WeatherWebSite"
 version: 1.0.0
